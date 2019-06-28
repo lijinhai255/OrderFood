@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "draftjs-to-html": "^0.8.4",
+    "echarts": "^4.2.1",
+    "echarts-for-react": "^2.0.15-beta.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "mockjs": "^1.0.1-beta3",
+    "react-draft-wysiwyg": "^1.13.2",
+    "socket.io": "^2.0.3",
+    "vue-socket.io": "^3.0.5"
+  }
+}
